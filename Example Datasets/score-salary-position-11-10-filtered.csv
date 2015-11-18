@@ -1,0 +1,205 @@
+PLAYER,PTS,Salary,Position
+Chris Hogan,3,3500,WR
+Lance Moore,3,3000,WR
+Markus Wheaton,3,3000,WR
+Brian Quick,3,3000,WR
+Texans,3.1,2600,Defense
+Jeremy Kerley,3.1,3000,WR
+Christine Michael,3.1,3000,RB
+Marqise Lee,3.1,3000,WR
+Jared Cook,3.1,2500,TE
+Marcel Reece,3.3,3500,RB
+Corey Brown,3.5,3100,WR
+Jonathan Grimes,3.5,3000,RB
+Scott Chandler,3.5,2500,TE
+Albert Wilson,3.6,3000,WR
+Adam Humphries,3.7,3200,WR
+Heath Miller,3.7,3000,TE
+Chris Polk,3.8,3200,RB
+Kenny Stills,3.8,3100,WR
+Ka'Deem Carey,3.8,3000,RB
+Mohamed Sanu,3.9,3000,WR
+Andrew Hawkins,3.9,3000,WR
+Brian Hartline,4,3000,WR
+Andre Ellington,4.1,3700,RB
+Kenny Britt,4.1,3600,WR
+Jermaine Kearse,4.1,3100,WR
+Kyle Rudolph,4.1,3000,TE
+Nelson Agholor,4.2,3400,WR
+Justin Hunter,4.2,3100,WR
+Austin Seferian-Jenkins,4.2,2800,TE
+Dexter McCluster,4.4,3300,RB
+Saints,4.5,2300,Defense
+Dwayne Harris,4.5,3600,WR
+Alfred Morris,4.5,3300,RB
+Javorius Allen,4.6,3300,RB
+Danny Amendola,4.7,4000,WR
+Terrance Williams,4.7,3800,WR
+Isaiah Crowell,4.7,3400,RB
+James White,4.7,3000,RB
+Crockett Gillmore,4.7,2800,TE
+Chiefs,4.8,2600,Defense
+Karlos Williams,4.8,3800,RB
+Marquess Wilson,4.8,3800,WR
+Jaguars,4.9,2600,Defense
+Vernon Davis,4.9,2500,TE
+Julius Thomas,5,3700,TE
+Charles Sims,5,3500,RB
+Chris Givens,5,3200,WR
+Rashad Jennings,5.2,3800,RB
+Doug Baldwin,5.2,3400,WR
+Browns,5.3,2000,Defense
+Cecil Shorts III,5.3,3000,WR
+Tyler Lockett,5.3,3000,WR
+Raiders,5.4,2100,Defense
+Marlon Brown,5.4,3600,WR
+Marques Colston,5.4,3400,WR
+Chris Thompson,5.4,3200,RB
+Charles Clay,5.5,4100,TE
+Darren Sproles,5.5,3600,RB
+Robert Woods,5.5,3600,WR
+Dorial Green-Beckham,5.5,3200,WR
+Harry Douglas,5.5,3200,WR
+Bilal Powell,5.5,3000,RB
+Vikings,5.6,2800,Defense
+Shane Vereen,5.6,4300,RB
+Jordan Cameron,5.6,2700,TE
+Jamison Crowder,5.7,3500,WR
+Ryan Mathews,5.7,3500,RB
+Theo Riddick,5.7,3300,RB
+Michael Floyd,5.8,3800,WR
+Eric Ebron,5.8,3300,TE
+Jason Witten,5.9,5100,TE
+Benjamin Watson,5.9,4300,TE
+Alfred Blue,5.9,4000,RB
+Larry Donnell,6,2700,TE
+Joique Bell,6.1,3200,RB
+Zach Ertz,6.1,3000,TE
+Bills,6.2,2900,Defense
+Mike Wallace,6.2,3700,WR
+Ted Ginn Jr.,6.2,3400,WR
+Travis Kelce,6.3,4800,TE
+Dolphins,6.4,2500,Defense
+C.J. Spiller,6.5,3000,RB
+Richard Rodgers,6.5,3000,TE
+Martavis Bryant,6.6,5500,WR
+Marvin Jones,6.6,4300,WR
+Ronnie Hillman,6.6,4000,RB
+Cowboys,6.7,2500,Defense
+Buccaneers,6.7,2500,Defense
+Delanie Walker,6.7,4700,TE
+Golden Tate,6.7,4600,WR
+Rueben Randle,6.7,3900,WR
+Titans,6.8,2200,Defense
+Seahawks,6.8,3500,Defense
+Bengals,7,3300,Defense
+Bears,7,2200,Defense
+James Jones,7.1,5300,WR
+Duke Johnson Jr.,7.1,4000,RB
+LeSean McCoy,7.2,5500,RB
+DeSean Jackson,7.2,5400,WR
+Martellus Bennett,7.3,4700,TE
+Ravens,7.4,2800,Defense
+Patriots,7.4,3200,Defense
+Jimmy Graham,7.4,4900,TE
+Charcandrick West,7.4,4800,RB
+Pierre Garcon,7.5,4800,WR
+Rishard Matthews,7.5,4700,WR
+Nate Washington,7.6,4400,WR
+Kamar Aiken,7.8,4500,WR
+Greg Olsen,8,6300,TE
+Brandin Cooks,8,6000,WR
+John Brown,8,5500,WR
+Willie Snead,8,4900,WR
+Davante Adams,8,4200,WR
+Sammy Watkins,8.1,5000,WR
+Tavon Austin,8.1,4800,WR
+Jordan Reed,8.1,4600,TE
+Travis Benjamin,8.2,5200,WR
+Eagles,8.3,2700,Defense
+Allen Hurns,8.4,5800,WR
+Stefon Diggs,8.4,5100,WR
+Steelers,8.5,3000,Defense
+Chris Johnson,8.5,4600,RB
+Amari Cooper,8.6,6800,WR
+Jordan Matthews,8.6,6200,WR
+Tyler Eifert,8.6,5800,TE
+Jeremy Maclin,8.6,5500,WR
+Gary Barnidge,8.6,4800,TE
+C.J. Anderson,8.6,3800,RB
+Antonio Andrews,8.6,3700,RB
+James Starks,8.7,4900,RB
+Dez Bryant,8.8,7800,WR
+Jarvis Landry,8.9,6700,WR
+Eric Decker,9,5300,WR
+T.J. Yeldon,9,4800,RB
+Panthers,9.1,3300,Defense
+Mike Evans,9.1,6800,WR
+Jeremy Langford,9.1,4800,RB
+Brandon LaFell,9.1,4100,WR
+Matt Jones,9.3,3300,RB
+Packers,9.5,3200,Defense
+Larry Fitzgerald,9.6,7400,WR
+Lamar Miller,9.6,5400,RB
+Jets,9.6,3000,Defense
+Jeremy Hill,9.9,5300,RB
+Cardinals,10,3900,Defense
+Latavius Murray,10,5700,RB
+Antonio Brown,10.1,8800,WR
+Chris Ivory,10.4,5900,RB
+Broncos,10.5,3400,Defense
+Doug Martin,10.5,5600,RB
+Calvin Johnson,10.6,7500,WR
+Michael Crabtree,10.6,5800,WR
+Giovani Bernard,10.6,4700,RB
+Brandon Marshall,10.7,7400,WR
+Nick Foles,10.7,5000,QB
+Marshawn Lynch,10.8,6700,RB
+Eddie Lacy,10.9,5500,RB
+Emmanuel Sanders,11,7300,WR
+Allen Robinson,11,6700,WR
+Jonathan Stewart,11.1,4300,RB
+Randall Cobb,11.2,6700,WR
+Alshon Jeffery,11.3,7100,WR
+Jameis Winston,11.3,5000,QB
+LeGarrette Blount,11.4,4900,RB
+Rams,11.8,3600,Defense
+Rob Gronkowski,11.8,8000,TE
+Matt Cassel,11.9,5000,QB
+Odell Beckham Jr.,12,8800,WR
+Demaryius Thomas,12,7400,WR
+DeAndre Hopkins,12.2,8700,WR
+Julian Edelman,12.2,8200,WR
+Landry Jones,12.3,5300,QB
+A.J. Green,12.7,7600,WR
+Teddy Bridgewater,12.8,5100,QB
+Adrian Peterson,12.9,7100,RB
+Mark Ingram,13,6400,RB
+Jay Cutler,13.2,5100,QB
+Darren McFadden,13.2,4900,RB
+Alex Smith,13.3,5000,QB
+DeMarco Murray,13.6,6200,RB
+Sam Bradford,13.6,5700,QB
+Marcus Mariota,13.7,5300,QB
+Josh McCown,13.9,5000,QB
+Justin Forsett,14,6000,RB
+Matthew Stafford,14,5400,QB
+Ryan Tannehill,14.4,5300,QB
+Tyrod Taylor,14.6,5500,QB
+Joe Flacco,14.9,5500,QB
+Russell Wilson,15.3,5900,QB
+Brian Hoyer,15.3,5400,QB
+Ryan Fitzpatrick,15.3,5100,QB
+DeAngelo Williams,15.5,6500,RB
+Carson Palmer,15.8,6900,QB
+Peyton Manning,15.8,6200,QB
+Kirk Cousins,15.8,5200,QB
+Eli Manning,15.9,6700,QB
+Todd Gurley,17.2,7300,RB
+Cam Newton,17.3,7000,QB
+Derek Carr,17.3,5800,QB
+Blake Bortles,17.6,5600,QB
+Drew Brees,17.8,7400,QB
+Andy Dalton,19,6500,QB
+Tom Brady,22.4,8600,QB
+Aaron Rodgers,22.8,7500,QB
