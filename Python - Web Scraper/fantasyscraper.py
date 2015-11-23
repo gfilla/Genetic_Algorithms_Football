@@ -10,5 +10,6 @@ full_df = pd.concat(tables)
 
 full_df.fillna(0,inplace = True)
 full_df.replace(['\xa0'],[' '],inplace = True) 
-
-full_df.to_csv('11102015espn.csv', encoding= 'utf-8')
+f_name = input("Enter the name of the csv file:\n")
+full_df.to_csv(f_name+'.csv', encoding= 'utf-8')
+print 'done'

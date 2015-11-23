@@ -5,9 +5,9 @@
 
 ![evolution](https://raw.githubusercontent.com/gfilla/Genetic_Algorithms_Football/master/Images/evolution.png)
 
+
 ---
 R Packages used
-
 ----
 
 - [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html) was used for exploratory analysis for this project
